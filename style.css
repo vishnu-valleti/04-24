@@ -1,0 +1,21 @@
+.main{
+    text-align: center;
+}
+
+.i1,.i2,.i3,.i4{
+    width: 350px;
+    height: 750px;
+    display: inline-block;
+    margin: 9px;
+    font-family: "karma",serif;
+    vertical-align: top;
+}
+h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+img{
+    width: 100%;
+    margin: 0;
+    
+}
